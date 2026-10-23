@@ -1,6 +1,5 @@
 
 # NovaMarket CR
-
 ## Integrantes
 - [Gisela Beltran1]
 - [Stephanie Matinez 2]
